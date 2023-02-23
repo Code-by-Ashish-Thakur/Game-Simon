@@ -1,0 +1,111 @@
+html{
+  scroll-behavior: smooth;
+}
+body {
+  text-align: center;
+  background-color: #011F3F;
+  margin: 0 0;
+}
+.skip{
+  color: aliceblue;
+  font-family: 'Press Start 2P', cursive;
+  position: relative;
+  font-size: 15px;
+  margin:auto;
+}
+.heading{
+  background-color: #ff1b2e;
+  color: #fff;
+  font-size: 32px;
+  font-family: 'Press Start 2P', cursive;
+  margin: 0;
+}
+h1{
+  margin-bottom: 0px;
+}
+h1{
+  margin-top: 0px;
+  padding: 1rem;
+}
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rule{
+  background-color: #033eee;
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  padding: 1rem;
+}
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 9px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+
+footer{
+  background-color: #0c0202;
+  color: #fff;
+  padding: 1rem;
+  line-height: 1.6rem;
+}
+
+a{
+  
+  color: rgb(218, 18, 3);
+}
+a:hover{
+  
+  text-decoration: none;
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+.rule h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 55px;
+}
